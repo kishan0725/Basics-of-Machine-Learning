@@ -1,2 +1,2 @@
 # Basics-of-Machine-Learning
-Solve machine learning problems using scikit-learn 
+Solving machine learning problems using Python's popular scikit-learn
